@@ -24,9 +24,9 @@ First, import the `HyperProvider` and wrap some of your components. (The HyperPr
 import { HyperProvider } from '@infinium/hyper';
 
 const App = () => (
-	<HyperProvider config={{ ... }}>
-		<TheRestOfYourApp />
-	</HyperProvider>
+    <HyperProvider config={{ ... }}>
+        <TheRestOfYourApp />
+    </HyperProvider>
 );
 ```
 
@@ -124,9 +124,9 @@ Note: the provider **is** required.
 import { HyperProvider } from '@infinium/hyper';
 
 const App = () => (
-	<HyperProvider config={{ ... }}>
-		<TheRestOfYourApp />
-	</HyperProvider>
+    <HyperProvider config={{ ... }}>
+        <TheRestOfYourApp />
+    </HyperProvider>
 );
 ```
 
